@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wilmer Montilla 💻</h1>
+<img src="https://res.cloudinary.com/wilmer-montilla/image/upload/v1641253559/GitHub%20readme/HeaderGithub_cnzrqw.png" alt="Welcome" width="100%" height="300" />
 <h3 align="center"> Full-stack developer, passionate about new technologies and wanting to share knowledge and contribute to the community!!</h3>
 
 - 🔭 I’m currently working on [White Peak Tech](http://whitepeaktech.com)
